@@ -1,0 +1,6 @@
+*.ipynb -text
+
+*.ipynb linguist-language=Jupyter\ Notebook
+examples/*.ipynb linguist-detectable=true
+
+bootstrap_pip.bat linguist-detectable=false
