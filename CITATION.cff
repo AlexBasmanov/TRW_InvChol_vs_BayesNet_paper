@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Reproducible Notebooks for TRW pipeline (BN/IC)"
+doi: 10.5281/zenodo.17273980
+date-released: 2025-10-06
+repository-code: "https://github.com/AlexBasmanov/TRW_InvChol_vs_BayesNet_paper"
+license: MIT
+
+# Authors listed to match the manuscript team; code developer noted in README.
+authors:
+  - family-names: Bogacheva
+    given-names: Mikhail I.
+  - family-names: Basmanova
+    given-names: Alexander A.
+  - family-names: Pykoa
+    given-names: Nikita S.
+  - family-names: Pykoa
+    given-names: Svetlana A.
+  - family-names: Grigoriev
+    given-names: Andrey A.
+  - family-names: Imaev
+    given-names: Rasul G.
+  - family-names: Lozhkin
+    given-names: Grigoriy I.
+  - family-names: Chizhikova
+    given-names: Nelli A.
+  - family-names: Tishin
+    given-names: Denis V.
+  - family-names: Kayumov
+    given-names: Airat R.
+
+preferred-citation:
+  type: software
+  title: "Reproducible Notebooks for TRW pipeline (BN/IC)"
+  doi: 10.5281/zenodo.17273980
+  year: 2025
+  authors:
+    - family-names: Bogacheva
+      given-names: Mikhail I.
+    - family-names: Basmanova
+      given-names: Alexander A.
+    - family-names: Pykoa
+      given-names: Nikita S.
+    - family-names: Pykoa
+      given-names: Svetlana A.
+    - family-names: Grigoriev
+      given-names: Andrey A.
+    - family-names: Imaev
+      given-names: Rasul G.
+    - family-names: Lozhkin
+      given-names: Grigoriy I.
+    - family-names: Chizhikova
+      given-names: Nelli A.
+    - family-names: Tishin
+      given-names: Denis V.
+    - family-names: Kayumov
+      given-names: Airat R.

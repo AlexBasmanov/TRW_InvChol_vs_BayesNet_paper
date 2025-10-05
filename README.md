@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17273980.svg)](https://doi.org/10.5281/zenodo.17273980)
+
 # Reproducible Notebooks
 
 This repository contains three self-contained Jupyter notebooks for the TRW pipeline:
@@ -77,3 +80,27 @@ pip install \
 **(Optional) Jupyter**
 pip install "jupyterlab>=4,<5" "ipykernel>=6.29"
 jupyter lab
+
+## How to cite
+
+Please cite the archived release:
+
+> Bogacheva M. I., **Basmanova A. A.** (code developer), Pykoa N. S., Pykoa S. A.,  
+> Grigoriev A. A., Imaev R. G., Lozhkin G. I., Chizhikova N. A., Tishin D. V., Kayumov A. R.  
+> *Reproducible Notebooks for TRW pipeline (BN/IC).*  
+> Zenodo. https://doi.org/10.5281/zenodo.17273980
+
+**BibTeX:**
+```bibtex
+@software{trw_notebooks_zenodo,
+  title   = {Reproducible Notebooks for TRW pipeline (BN/IC)},
+  author  = {Bogacheva, Mikhail I. and Basmanova, Alexander A. and
+             Pykoa, Nikita S. and Pykoa, Svetlana A. and
+             Grigoriev, Andrey A. and Imaev, Rasul G. and
+             Lozhkin, Grigoriy I. and Chizhikova, Nelli A. and
+             Tishin, Denis V. and Kayumov, Airat R.},
+  year    = {2025},
+  doi     = {10.5281/zenodo.17273980},
+  url     = {https://github.com/AlexBasmanov/TRW_InvChol_vs_BayesNet_paper}
+}
+
