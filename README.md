@@ -14,18 +14,31 @@ pinned dependencies *inside the current kernel*. This is optional if you already
 # Repository Layout
 
 project/
+
 ├─ examples/
+
 │ ├─ BN_bogs.ipynb
+
 │ ├─ BN_herons.ipynb
+
 │ └─ IC_herons.ipynb
+
 ├─ data/
+
 │ ├─ _bogs/ # place input files for bogs here
+
 │ └─ _herons/ # place input files for heron sites here
+
 ├─ results/
+
 │ ├─ _bogs/ # notebooks write outputs/figures here (auto-created)
+
 │ └─ _herons/
+
 ├─ bootstrap_pip.bat # pip bootstrap for Windows (cmd)
+
 ├─ README.md
+
 └─ LICENSE # MIT License
 
 # Quick Start — Option A (RECOMMENDED): Conda / Mambaforge
