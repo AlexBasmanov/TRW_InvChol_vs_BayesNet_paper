@@ -1,0 +1,18 @@
+name: trwpy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.2.6
+  - pandas=2.3.2
+  - matplotlib=3.10.6
+  - scipy=1.16.1
+  - joblib=1.5.2
+  - openpyxl=3.1.5
+  - xlrd=2.0.2
+  - pip
+  - pip:
+      - arch==7.2.0
+      - py-banshee==1.1.2
+      - jupyterlab>=4,<5
+      - ipykernel>=6.29
