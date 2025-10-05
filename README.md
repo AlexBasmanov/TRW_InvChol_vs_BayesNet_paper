@@ -6,6 +6,18 @@ This repository contains three self-contained Jupyter notebooks for the TRW pipe
 - `examples/BN_herons.ipynb` — NPBN/BN analysis for **heron colonies** (`py-banshee`)
 - `examples/IC_herons.ipynb` — **IC / classical statistics** for heron colonies (no `py-banshee`)
 
+### Launch in Binder
+
+BN (bogs):  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexBasmanov/TRW_InvChol_vs_BayesNet_paper/HEAD?labpath=examples%2FBN_bogs.ipynb)
+
+BN (herons):  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexBasmanov/TRW_InvChol_vs_BayesNet_paper/HEAD?labpath=examples%2FBN_herons.ipynb)
+
+IC (herons):  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexBasmanov/TRW_InvChol_vs_BayesNet_paper/HEAD?labpath=examples%2FIC_herons.ipynb)
+
+
 Each notebook includes a **commented `(-1) Bootstrap` cell**. You can uncomment it and run to install
 pinned dependencies *inside the current kernel*. This is optional if you already prepared an environment.
 
