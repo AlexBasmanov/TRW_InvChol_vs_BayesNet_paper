@@ -8,13 +8,13 @@ license: MIT
 
 # Authors listed to match the manuscript team; code developer noted in README.
 authors:
-  - family-names: Bogacheva
+  - family-names: Bogachev
     given-names: Mikhail I.
-  - family-names: Basmanova
+  - family-names: Basmanov
     given-names: Alexander A.
-  - family-names: Pykoa
+  - family-names: Pyko
     given-names: Nikita S.
-  - family-names: Pykoa
+  - family-names: Pyko
     given-names: Svetlana A.
   - family-names: Grigoriev
     given-names: Andrey A.
@@ -35,13 +35,13 @@ preferred-citation:
   doi: 10.5281/zenodo.17273980
   year: 2025
   authors:
-    - family-names: Bogacheva
+    - family-names: Bogachev
       given-names: Mikhail I.
-    - family-names: Basmanova
+    - family-names: Basmanov
       given-names: Alexander A.
-    - family-names: Pykoa
+    - family-names: Pyko
       given-names: Nikita S.
-    - family-names: Pykoa
+    - family-names: Pyko
       given-names: Svetlana A.
     - family-names: Grigoriev
       given-names: Andrey A.

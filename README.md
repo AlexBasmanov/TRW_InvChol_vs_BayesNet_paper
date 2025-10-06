@@ -26,7 +26,7 @@ pinned dependencies *inside the current kernel*. This is optional if you already
 
 **Recommended Python:** 3.11.x (tested with 3.11.13)
 
-# Quick Start — Option A (RECOMMENDED): Conda / Mambaforge
+# Quick Start — Conda / Mambaforge (RECOMMENDED):
 **Install Mambaforge (or Miniforge/Conda).**
 
 **Create and activate an environment with the recommended Python:**
@@ -45,7 +45,7 @@ jupyter lab
 *You can either use the Conda environment as is *(**installing the libraries yourself***),* 
 **or uncomment the Bootstrap cell (-1) inside the notebook to extract the pinned versions!**
 
-# Quick Start — Option B: pip (Windows cmd)
+# Quick Start — Other options: pip/bat
 **This repo provides a Windows batch script that sets up a local virtual environment and installs pinned deps via pip.**
 **Note:** On Windows, the script prefers the `py -3.11` launcher (Python 3.11) if available; otherwise it uses `python` on PATH. Make sure Python 3.11.x is installed.
 
@@ -94,8 +94,8 @@ Please cite the archived release:
 ```bibtex
 @software{trw_notebooks_zenodo,
   title   = {Reproducible Notebooks for TRW pipeline (BN/IC)},
-  author  = {Bogacheva, Mikhail I. and Basmanova, Alexander A. and
-             Pykoa, Nikita S. and Pykoa, Svetlana A. and
+  author  = {Bogachev, Mikhail I. and Basmanov, Alexander A. and
+             Pyko, Nikita S. and Pyko, Svetlana A. and
              Grigoriev, Andrey A. and Imaev, Rasul G. and
              Lozhkin, Grigoriy I. and Chizhikova, Nelli A. and
              Tishin, Denis V. and Kayumov, Airat R.},
