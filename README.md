@@ -5,9 +5,14 @@
 
 This repository contains three self-contained Jupyter notebooks for the TRW pipeline:
 
-- `examples/BN_bogs.ipynb` — NPBN/BN analysis for **bogs** (`py-banshee`)
-- `examples/BN_herons.ipynb` — NPBN/BN analysis for **heron colonies** (`py-banshee`)
-- `examples/IC_herons.ipynb` — **IC / classical statistics** for heron colonies (no `py-banshee`)
+- `examples/BN_bogs.ipynb` — **Bayesian Network(BN)** analysis for bogs (`py-banshee`)
+- `examples/BN_herons.ipynb` — **Bayesian Network(BN)** analysis for heron colonies (`py-banshee`)
+- `examples/IC_herons.ipynb` — **Inverse Cholesky (IC)** for heron colonies (no `py-banshee`)
+
+Each notebook includes a **commented `(-1) Bootstrap` cell**. You can uncomment it and run to install
+pinned dependencies *inside the current kernel*. This is optional if you already prepared an environment.
+
+**Recommended Python:** 3.11.x (tested with 3.11.13)
 
 ### Launch in Binder
 
@@ -19,12 +24,6 @@ BN (herons):
 
 IC (herons):  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexBasmanov/TRW_InvChol_vs_BayesNet_paper/HEAD?labpath=examples%2FIC_herons.ipynb)
-
-
-Each notebook includes a **commented `(-1) Bootstrap` cell**. You can uncomment it and run to install
-pinned dependencies *inside the current kernel*. This is optional if you already prepared an environment.
-
-**Recommended Python:** 3.11.x (tested with 3.11.13)
 
 # Quick Start — Conda / Mambaforge (RECOMMENDED):
 **Install Mambaforge (or Miniforge/Conda).**
