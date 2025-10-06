@@ -85,7 +85,7 @@ jupyter lab
 
 Please cite the archived release:
 
-> Bogacheva M. I., **Basmanova A. A.** (code developer), Pykoa N. S., Pykoa S. A.,  
+> Bogachev M. I., **Basmanov A. A.** (code developer), Pyko N. S., Pyko S. A.,  
 > Grigoriev A. A., Imaev R. G., Lozhkin G. I., Chizhikova N. A., Tishin D. V., Kayumov A. R.  
 > *Reproducible Notebooks for TRW pipeline (BN/IC).*  
 > Zenodo. https://doi.org/10.5281/zenodo.17273980
