@@ -5,8 +5,8 @@
 
 This repository contains three self-contained Jupyter notebooks for the TRW pipeline:
 
-- `examples/BN_bogs.ipynb` — **Bayesian Network(BN)** analysis for bogs (`py-banshee`)
-- `examples/BN_herons.ipynb` — **Bayesian Network(BN)** analysis for heron colonies (`py-banshee`)
+- `examples/BN_bogs.ipynb` — **Bayesian Network (BN)** analysis for bogs (`py-banshee`)
+- `examples/BN_herons.ipynb` — **Bayesian Network (BN)** analysis for heron colonies (`py-banshee`)
 - `examples/IC_herons.ipynb` — **Inverse Cholesky (IC)** for heron colonies (no `py-banshee`)
 
 Each notebook includes a **commented `(-1) Bootstrap` cell**. You can uncomment it and run to install
